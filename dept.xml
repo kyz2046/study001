@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<depts name="sxt">
+    <dept no="sxt001">
+        <name>研发部</name>
+    </dept>
+    <dept>
+        <name>营销部</name>
+    </dept>
+</depts>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+    <!--使用jdom操作xml-->
+    <teacher no="sxt001">
+        <name age="20" gender="保密">xueer</name>
+    </teacher>
+    
+</teachers>
